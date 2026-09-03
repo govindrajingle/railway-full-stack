@@ -1,0 +1,6 @@
+[tools]
+java = "25"
+
+[env]
+# Optional environment variables available during build/runtime
+SPRING_PROFILES_ACTIVE = "railway"
